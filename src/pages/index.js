@@ -9,6 +9,7 @@ Amplify.configure(config)
 
 const IndexPage = () => (
   <Layout>
+  <p>Test</p>
   </Layout>
 )
 
